@@ -1,0 +1,87 @@
+.a{
+    width: 900px;
+    height: 550px;
+    border-style: solid;
+    border-color:rgba(68, 97, 175, 0.849);
+    margin-top: 20px;
+    background-color:rgba(68, 97, 175, 0.849);
+}
+.b{
+    display: flex;
+    width: 850px;
+    height: 450px;
+    border-style: solid;
+    border-color: white;
+    margin-top: 60px;
+    background-color: white;
+    position: relative;
+}
+.c{
+    width: 300px;
+    height: 420px;
+    border-style: solid;
+    border-color: rgb(236, 230, 230);
+    box-shadow: black;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.onec{
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: -150px;
+
+}
+.twoc{
+    font-size: 15px;
+    color: rgb(107, 106, 106);
+    margin-top: -30px;
+}
+.threec{
+    margin-left: -130px;
+}
+.fourc,.sevenc{
+    width: 220px;
+    height: 35px;
+    margin-top: -10px;
+    border-radius: 5px;
+    border-color: rgba(68, 97, 175, 0.849);
+}
+.sixc{
+    margin-left: 50px;
+    color: rgba(68, 97, 175, 0.849);
+}
+.eightc{
+    margin-left: -120px;
+    margin-top: -10px;
+}
+.ninec{
+    width: 230px;
+    height: 35px;
+    border-radius: 5px;
+    background-color:rgba(68, 97, 175, 0.849);
+    border-color: rgba(68, 97, 175, 0.849);
+    color: white;
+}
+.cc{
+    margin-top: -10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.onecc{
+    width: 100px;
+    height: 30px;
+    border-color: red;
+    border-radius: 5px;
+}
+.twocc{
+    width: 100px;
+    height: 30px;
+    border-color: blue;
+    border-radius: 5px;
+}
+.d img{
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    margin-top: 20px;
+}
